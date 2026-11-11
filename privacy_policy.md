@@ -1,16 +1,16 @@
 # PawsLog Privacy Policy
 
-**Last updated: November 9, 2026**
+**Last updated: November 12, 2026**
 
 PawsLog ("the app") is a pet care and health tracking app. This policy explains what information the app handles. Replace the contact details at the bottom before publishing.
 
 ## Information stored on your device
 
-PawsLog works offline and does not require an account. The information you enter (pet names, species, breed, birth dates, weights, meals, walks, medication schedules and supply levels, vaccines and vet visits, expenses, grooming and symptom notes) is stored **only on your device**. We do not receive, upload or have access to it. This information is about your pets, not about you.
+PawsLog works offline and does not require an account. The information you enter (pet names, species, breed, birth dates, weights, meals, walks, medication schedules and supply levels, vaccines and vet visits, expenses, recurring care tasks, food stock, grooming and symptom notes) is stored **only on your device**. We do not receive, upload or have access to it. This information is about your pets, not about you.
 
-## Photos and contact details
+## Photos, documents and contact details
 
-If you add a pet photo, the app makes a copy in its private storage on your device. If you add details such as a microchip number, your name and phone number, your vet's contact details or care notes, they are also stored only on your device. None of this is uploaded to us.
+If you add a pet photo, photos to the pet's timeline, or documents such as vaccination cards, insurance papers or PDFs, the app makes a copy in its private storage on your device. Documents may contain personal details (for example your name or address), so treat any backup file you create as sensitive. If you add details such as a microchip number, your name and phone number, your vet's contact details or care notes, they are also stored only on your device. None of this is uploaded to us.
 
 ## Location (Paw Trail)
 
@@ -18,7 +18,7 @@ If you use Paw Trail, the app asks for permission to use your device's **precise
 
 ## Backup and restore
 
-PawsLog can save all your data (pets, logs, health records, routes and photos) into a single backup file. The file is created on your device and saved **where you choose** using Android's file picker, for example your phone's storage or your Google Drive. PawsLog does not upload backups itself and we never receive them. If you choose Google Drive or another cloud service, that service's own terms and privacy policy apply to the file. Restoring a backup replaces the data currently in the app.
+PawsLog can save all your data (pets, logs, health records, routes, photos and documents) into a single backup file. The file is created on your device and saved **where you choose** using Android's file picker, for example your phone's storage or your Google Drive. PawsLog does not upload backups itself and we never receive them. If you choose Google Drive or another cloud service, that service's own terms and privacy policy apply to the file. Restoring a backup replaces the data currently in the app.
 
 Separately, if automatic backup is turned on in your Android settings, Android may include the app's data in your device backup to your Google account, as it does for most apps. You can control this in your device's system settings.
 
@@ -48,7 +48,9 @@ PawsLog Plus is an optional one-time purchase processed entirely by **Google Pla
 
 ## Advertising
 
-PawsLog is free and supported by ads shown through **Google AdMob**. If you buy PawsLog Plus, the app stops loading ads. The Google Mobile Ads SDK may collect and use certain information to serve and measure ads, such as your device's advertising ID, IP address (which may indicate approximate location), app interaction data, and diagnostic information. This data is processed by Google under [Google's Privacy Policy](https://policies.google.com/privacy). Learn more at [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+PawsLog is free and supported by ads shown through **Google AdMob**. If you buy PawsLog Plus, the app stops loading ads.
+
+If you are in the European Economic Area, the United Kingdom or Switzerland, the app first shows a consent message from Google (the User Messaging Platform) and requests ads only according to your choice. You can review or change that choice at any time in Settings > Ad privacy options. The Google Mobile Ads SDK may collect and use certain information to serve and measure ads, such as your device's advertising ID, IP address (which may indicate approximate location), app interaction data, and diagnostic information. This data is processed by Google under [Google's Privacy Policy](https://policies.google.com/privacy). Learn more at [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
 You can control ad personalization by resetting or deleting your advertising ID, or by opting out of personalized ads, in your Android device settings (Settings > Privacy > Ads).
 
